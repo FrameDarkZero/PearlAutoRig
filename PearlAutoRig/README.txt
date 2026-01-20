@@ -16,3 +16,8 @@ It begins with custom visual joint-placement locators and expands toward automat
 
 ### Notes
 This repository is actively evolving as part of a larger personal auto-rigging toolset.
+
+### Related Projects
+
+CustomLocator — Custom visual locator system used for joint placement.
+https://github.com/FrameDarkZero/CustomLocator
