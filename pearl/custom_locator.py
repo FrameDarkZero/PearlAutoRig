@@ -1,3 +1,9 @@
+# CustomLocator
+# Originally developed in the CustomLocator repository
+# https://github.com/FrameDarkZero/CustomLocator
+#
+# Integrated into P.E.A.R.L. (Procedural Engine for Automated Rigging Layouts)
+
 import maya.cmds as cmds
 import maya.OpenMaya as om
 
@@ -139,4 +145,5 @@ if __name__ == "__main__":
     
     spine_03 = CustomLocator(name="spine_03", side="R", orientation="z")
     spine_03 = spine_03.get_locator_name()
+
     
