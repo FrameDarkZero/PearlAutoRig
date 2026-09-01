@@ -1,3 +1,10 @@
+# ThreePointJointChain
+# Originally developed in the ThreePointJointChain repository
+# https://github.com/FrameDarkZero/ThreePointJointChain
+#
+# Integrated into P.E.A.R.L. (Procedural Engine for Automated Rigging Layouts)
+
+
 # Maya Python (OO): 3-point joint chain from 3 locators
 # - Builds a stable plane from the 3 points (A-pose safe)
 # - Orients joints with "orient joint" style options:
